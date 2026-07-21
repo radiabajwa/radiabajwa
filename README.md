@@ -1,7 +1,6 @@
-```md
 <p align="center">
   <a href="https://github.com/radiabajwa">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=C71585&fontSize=54&height=90&width=762&text=Hello!%20I'm%20Radia%20Eman" alt="Hello! I'm Radia Eman" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=762&text=Hello!%20I'm%20Radia%20Eman" alt="Hello! I&#39;m Radia Eman" />
   </a>
 </p>
 
@@ -53,14 +52,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=radiabajwa&show_icons=true&theme=tokyonight&title_color=C71585&icon_color=C71585&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=radiabajwa&layout=compact&theme=tokyonight&title_color=C71585&icon_color=C71585&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=radiabajwa&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=radiabajwa&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=radiabajwa&bg_color=00000000&color=C71585&line=C71585&point=ff9bce&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=radiabajwa&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
@@ -70,6 +69,4 @@
 </p>
 
 ---
-
 <p align="center"><i>⭐️ From <a href="https://github.com/radiabajwa">radiabajwa</a></i></p>
-```
