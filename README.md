@@ -1,186 +1,75 @@
-<div align="center">
+```md
+<p align="center">
+  <a href="https://github.com/radiabajwa">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=C71585&fontSize=54&height=90&width=762&text=Hello!%20I'm%20Radia%20Eman" alt="Hello! I'm Radia Eman" />
+  </a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0405,50:3D0C1A,100:0D0405&height=200&section=header&text=RADIA%20EMAN&fontSize=46&fontColor=E8C9A0&fontAlignY=42&desc=Computer%20Engineering%20%E2%80%A2%20Web%20Development%20%E2%80%A2%20Artificial%20Intelligence&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=865&height=44&lines=I%20build%20websites%20and%20learn%20AI%20every%20day;Full-stack%20development%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Open%20Source" alt="Typing headlines" />
+</p>
 
-<a href="https://github.com/radiabajwa">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Crafting+interfaces+that+feel+premium;Learning+AI+%2F+ML%2C+one+model+at+a+time;Turning+ideas+into+products;Always+shipping+in+public&font=Georgia&center=true&width=560&height=40&color=C9A0A0&vCenter=true&size=18&pause=1600"/>
-</a>
+### 🚀 About Me
 
-</div>
+🔭 &nbsp;I'm currently working on **Full-stack web applications and personal AI projects**  
+🌱 &nbsp;I'm currently learning **Artificial Intelligence, Machine Learning, and advanced backend development**  
+👯 &nbsp;I'm looking to collaborate on **Open-source web applications and AI-powered tools**  
+🤔 &nbsp;I'm looking for help with **AI integration, model deployment, and scalable application architecture**  
+💬 &nbsp;Ask me about **React, JavaScript, Node.js, Python, Web Development, and AI fundamentals**  
+😄 &nbsp;Pronouns: **she/her**  
+⚡ &nbsp;Fun fact: **I love turning ideas into websites and am teaching myself AI one project at a time**
 
-<br/>
+### 🛠️ Tech Stack
 
-<div align="center">
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
-<img src="https://img.shields.io/badge/-9B1B30?style=flat-square&label=%20&labelColor=9B1B30" width="120" height="2"/>
+### 🔗 Connect With Me
 
-</div>
+<p align="left">
+  <a href="mailto:radiaeman6@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<br/>
+### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=radiabajwa&show_icons=true&theme=tokyonight&title_color=C71585&icon_color=C71585&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=radiabajwa&layout=compact&theme=tokyonight&title_color=C71585&icon_color=C71585&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
-### &nbsp;About&nbsp;
+### 📈 Contribution Graph
 
-</div>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=radiabajwa&bg_color=00000000&color=C71585&line=C71585&point=ff9bce&area=true&hide_border=true" alt="activity graph" />
+</p>
 
-<table align="center" width="100%">
-<tr>
-<td align="center" width="25%" valign="top">
-<br/>
+### 💭 Dev Quote
 
-🌸
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
 
-**Computer<br/>Engineering**
-<br/>
-<sub>Undergraduate, building a technical foundation</sub>
-<br/><br/>
-</td>
-<td align="center" width="25%" valign="top">
-<br/>
+---
 
-💻
-
-**Web<br/>Development**
-<br/>
-<sub>Responsive, user-first websites</sub>
-<br/><br/>
-</td>
-<td align="center" width="25%" valign="top">
-<br/>
-
-🤖
-
-**AI &<br/>Machine Learning**
-<br/>
-<sub>Currently deep in the fundamentals</sub>
-<br/><br/>
-</td>
-<td align="center" width="25%" valign="top">
-<br/>
-
-✨
-
-**Always<br/>Exploring**
-<br/>
-<sub>New tools, ideas & technologies</sub>
-<br/><br/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-📚 Passionate about continuous learning and exploring new technologies&nbsp; · &nbsp;🚀 Interested in software engineering, web technologies, and AI applications
-<br/><br/>
-🛠️ Building projects to strengthen my technical and problem-solving skills&nbsp; · &nbsp;🤝 Open to collaborations, internships, and open-source contributions
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://img.shields.io/badge/-9B1B30?style=flat-square&label=%20&labelColor=9B1B30" width="120" height="2"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-### &nbsp;Tech Stack&nbsp;
-
-<br/>
-
-<img src="https://img.shields.io/badge/C++-1A0A0D?style=flat-square&logo=cplusplus&logoColor=E8C9A0"/>&nbsp;
-<img src="https://img.shields.io/badge/Python-1A0A0D?style=flat-square&logo=python&logoColor=E8C9A0"/>&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-1A0A0D?style=flat-square&logo=javascript&logoColor=E8C9A0"/>&nbsp;
-<img src="https://img.shields.io/badge/HTML5-1A0A0D?style=flat-square&logo=html5&logoColor=E8C9A0"/>&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1A0A0D?style=flat-square&logo=css3&logoColor=E8C9A0"/>&nbsp;
-<img src="https://img.shields.io/badge/PHP-1A0A0D?style=flat-square&logo=php&logoColor=E8C9A0"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/React-1A0A0D?style=flat-square&logo=react&logoColor=D9A5A5"/>&nbsp;
-<img src="https://img.shields.io/badge/React_Native-1A0A0D?style=flat-square&logo=react&logoColor=D9A5A5"/>&nbsp;
-<img src="https://img.shields.io/badge/Next.js-1A0A0D?style=flat-square&logo=nextdotjs&logoColor=D9A5A5"/>&nbsp;
-<img src="https://img.shields.io/badge/Node.js-1A0A0D?style=flat-square&logo=nodedotjs&logoColor=D9A5A5"/>&nbsp;
-<img src="https://img.shields.io/badge/Laravel-1A0A0D?style=flat-square&logo=laravel&logoColor=D9A5A5"/>&nbsp;
-<img src="https://img.shields.io/badge/Django-1A0A0D?style=flat-square&logo=django&logoColor=D9A5A5"/>&nbsp;
-<img src="https://img.shields.io/badge/Bootstrap-1A0A0D?style=flat-square&logo=bootstrap&logoColor=D9A5A5"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/AWS-1A0A0D?style=flat-square&logo=amazonaws&logoColor=F1E4E0"/>&nbsp;
-<img src="https://img.shields.io/badge/Azure-1A0A0D?style=flat-square&logo=microsoftazure&logoColor=F1E4E0"/>&nbsp;
-<img src="https://img.shields.io/badge/Google_Cloud-1A0A0D?style=flat-square&logo=googlecloud&logoColor=F1E4E0"/>&nbsp;
-<img src="https://img.shields.io/badge/Vercel-1A0A0D?style=flat-square&logo=vercel&logoColor=F1E4E0"/>&nbsp;
-<img src="https://img.shields.io/badge/Netlify-1A0A0D?style=flat-square&logo=netlify&logoColor=F1E4E0"/>&nbsp;
-<img src="https://img.shields.io/badge/Supabase-1A0A0D?style=flat-square&logo=supabase&logoColor=F1E4E0"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/MySQL-1A0A0D?style=flat-square&logo=mysql&logoColor=E8C9A0"/>&nbsp;
-<img src="https://img.shields.io/badge/SQL_Server-1A0A0D?style=flat-square&logo=microsoftsqlserver&logoColor=E8C9A0"/>&nbsp;
-<img src="https://img.shields.io/badge/SQLite-1A0A0D?style=flat-square&logo=sqlite&logoColor=E8C9A0"/>&nbsp;
-<img src="https://img.shields.io/badge/OpenGL-1A0A0D?style=flat-square&logo=opengl&logoColor=E8C9A0"/>&nbsp;
-<img src="https://img.shields.io/badge/LaTeX-1A0A0D?style=flat-square&logo=latex&logoColor=E8C9A0"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://img.shields.io/badge/-9B1B30?style=flat-square&label=%20&labelColor=9B1B30" width="120" height="2"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-### &nbsp;GitHub Analytics&nbsp;
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=radiabajwa&show_icons=true&hide_border=true&bg_color=0D0405&title_color=E8C9A0&icon_color=D9A5A5&text_color=F1E4E0&ring_color=9B1B30"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radiabajwa&layout=compact&hide_border=true&bg_color=0D0405&title_color=E8C9A0&text_color=F1E4E0&langs_count=8"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=radiabajwa&hide_border=true&background=0D0405&ring=9B1B30&fire=D9A5A5&currStreakLabel=E8C9A0&sideLabels=F1E4E0&currStreakNum=F1E4E0&sideNums=F1E4E0&dates=8A7070"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=radiabajwa&bg_color=0D0405&color=D9A5A5&line=9B1B30&point=F1E4E0&area=true&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://img.shields.io/badge/-9B1B30?style=flat-square&label=%20&labelColor=9B1B30" width="120" height="2"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-### &nbsp;Connect&nbsp;
-
-<br/>
-
-<a href="mailto:radiabajwa656@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1A0A0D?style=for-the-badge&logo=gmail&logoColor=E8C9A0"/>
-</a>
-<a href="https://github.com/radiabajwa">
-  <img src="https://img.shields.io/badge/GitHub-1A0A0D?style=for-the-badge&logo=github&logoColor=E8C9A0"/>
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0405,50:3D0C1A,100:0D0405&height=90&section=footer"/>
-
-</div>
+<p align="center"><i>⭐️ From <a href="https://github.com/radiabajwa">radiabajwa</a></i></p>
+```
